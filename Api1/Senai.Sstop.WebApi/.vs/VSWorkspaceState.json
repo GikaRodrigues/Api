@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Senai.Sstop.WebApi",
+    "\\Senai.Sstop.WebApi\\Controllers",
+    "\\Senai.Sstop.WebApi\\Domains",
+    "\\Senai.Sstop.WebApi\\Repositories"
+  ],
+  "SelectedNode": "\\Senai.Sstop.WebApi\\Repositories\\EstiloRepository.cs",
+  "PreviewInSolutionExplorer": false
+}
